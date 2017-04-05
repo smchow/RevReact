@@ -1,0 +1,12 @@
+/* Some base styles to make styling the rest of the CSS a little easier */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
